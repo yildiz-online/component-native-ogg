@@ -18,4 +18,3 @@ rm -R include
 rm ogg.pc
 
 return $r1
-
