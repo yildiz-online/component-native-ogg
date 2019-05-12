@@ -19,4 +19,4 @@ rm install_manifest.txt
 rm -R include
 rm ogg.pc
 
-return $r1
+exit ${r1}
